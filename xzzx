@@ -1,1 +1,1 @@
-print('d')
+game.Players.LocalPlayer:Kick(".")
